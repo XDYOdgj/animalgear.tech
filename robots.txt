@@ -1,0 +1,3 @@
+User-agent: *
+Disallow:
+Sitemap: https://animalgear.tech/sitemap.xml
